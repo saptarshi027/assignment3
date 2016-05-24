@@ -1,0 +1,38 @@
+[
+    {
+        "countries": "Canada",
+        "saltPlusSugar": 751
+    },
+    {
+        "countries": "Netherlands",
+        "saltPlusSugar": 1800
+    },
+    {
+        "countries": "United Kingdom",
+        "saltPlusSugar": 18400
+    },
+    {
+        "countries": "United States",
+        "saltPlusSugar": 18697
+    },
+    {
+        "countries": "Australia",
+        "saltPlusSugar": 5913
+    },
+    {
+        "countries": "Germany",
+        "saltPlusSugar": 21985
+    },
+    {
+        "countries": "France",
+        "saltPlusSugar": 308314
+    },
+    {
+        "countries": "Spain",
+        "saltPlusSugar": 308158
+    },
+    {
+        "countries": "South Africa",
+        "saltPlusSugar": 97
+    }
+]
